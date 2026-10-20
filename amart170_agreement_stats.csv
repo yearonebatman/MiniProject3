@@ -1,0 +1,6 @@
+Field;PercentAgree_Pre;PercentAgree_Post;CohenKappa_Pre;CohenKappa_Post;NumDisagreements;NumResolved;Notes
+HasRecovered;90.0%;100.0%;0.667;1.000;1;1;1 initial disagreement(s) fully resolved via commit evidence (ValidatorKept).
+WhyRecovered;100.0%;100.0%;NA;NA;0;0;"Complete initial agreement; no adjudication required."
+ActivityPattern;60.0%;100.0%;0.403;1.000;4;4;4 initial disagreement(s) fully resolved via commit evidence (ValidatorKept).
+Currentstatus;100.0%;100.0%;1.000;1.000;0;0;"Complete initial agreement; no adjudication required."
+RecentThemes;100.0%;100.0%;NA;NA;0;0;"Complete initial agreement; no adjudication required."
